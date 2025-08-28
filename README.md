@@ -11,6 +11,7 @@
 
 [TME](https://tme.eu)
 
+[phoenixcontact.com](https://phoenixcontact.com)
 # PCB
 
 [JLCPCB PARTS](https://jlcpcb.com/parts)
