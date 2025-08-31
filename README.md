@@ -17,3 +17,6 @@
 [JLCPCB PARTS](https://jlcpcb.com/parts)
 
 [JLCPCB](https://jlcpcb.com)
+
+# Repos
+| [Benjaminas](https://github.com/benjaminas?tab=repositories) | [Laba7](https://github.com/orgs/LABA-7/repositories) | [MC](https://github.com/orgs/Multicursor/repositories) |
