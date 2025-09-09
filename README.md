@@ -19,10 +19,7 @@
 [JLCPCB](https://jlcpcb.com)
 
 # Repos
-|w|w|w|
-|------------------|------------------|------------------|
 | [Benjaminas](https://github.com/benjaminas?tab=repositories) | [Laba7](https://github.com/orgs/LABA-7/repositories) | [MC](https://github.com/orgs/Multicursor/repositories) |
-|w|w|w|
 
 # RP2040
 [RP2040 Datasheet](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)
