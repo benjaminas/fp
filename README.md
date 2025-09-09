@@ -27,7 +27,7 @@
 [RP Silicon Documentation](https://www.raspberrypi.com/documentation/microcontrollers/silicon.html#documentation),
 
 [RP2040 Datasheet](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf),
-[Hardware design with RP2040](https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf)
+[Hardware design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
 
 # RP2350 RP2354
 [RP2350 Datasheet](https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf),
